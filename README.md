@@ -1,3 +1,3 @@
-#Garuda Linux KDE Splashscreen
+# Garuda Linux KDE Splashscreen
 
 ![Preview Pic](contents/previews/splash.png "Garuda-TO")
